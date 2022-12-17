@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thyrakuraga
-- 👀 I’m interested in software programming
+- 👀 I’m interested in software programming and data analysis.
 - 🌱 I’m currently learning python, visual basic and probably more in the future!
 - 📫 You can reach me by my LinkedIn profile which is Thyra Kuraga.
 
